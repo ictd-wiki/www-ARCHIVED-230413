@@ -7,4 +7,4 @@ services:
       - "4567:4567"
     volumes:
       - .:/wiki
-    command: --no-edit --ref main
+    command: --no-edit --ref main --h1-title --page-file-dir /wiki

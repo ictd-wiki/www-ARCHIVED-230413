@@ -10,7 +10,7 @@ The wiki itself is split into two parts, the landing page and the wiki itself. T
 
 ### Landing Page
 
-Just edit the files in the `landing` directory and push to GitHub. This part of the site is hosted on GitHub Pages, using Caddy as a reverse proxy.
+Just edit the files in the `landing` directory and push to GitHub. This part of the site is hosted on [GitHub Pages](https://ictd-wiki.github.io/www/), using Caddy as a reverse proxy.
 
 ### Wiki
 

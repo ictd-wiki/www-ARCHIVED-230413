@@ -1,1 +1,1 @@
---ref main --h1-title --page-file-dir /wiki --mathjax
+--h1-title --page-file-dir /wiki --mathjax --base-path /wiki

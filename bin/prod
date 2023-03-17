@@ -6,4 +6,4 @@
 SHARED_PARAMS=$(cat bin/shared_params.txt)
 
 # then, run the container with the shared parameters plus the ones specific to prod mode
-docker run --rm -it -p 4567:4567 -v $(pwd):/wiki gollumwiki/gollum:v5.3.0 $SHARED_PARAMS --no-edit
+docker run --rm -it -p 4567:4567 -v $(pwd):/wiki gollumwiki/gollum:v5.3.0 $SHARED_PARAMS --ref main --no-edit

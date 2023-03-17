@@ -1,5 +1,1 @@
-This is a test :3
-
-owo
-
-I am in /wiki
+It works! :D

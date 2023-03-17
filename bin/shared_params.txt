@@ -1,1 +1,1 @@
---h1-title --page-file-dir /wiki --mathjax --base-path /wiki
+--h1-title --page-file-dir /wiki --mathjax --base-path /wiki --config /wiki/config.rb
